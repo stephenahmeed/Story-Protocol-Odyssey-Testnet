@@ -2,8 +2,8 @@ const { ethers } = require('ethers');
 const prompt = require('prompt-sync')();
 require('dotenv').config();
 
-const RPC_URL = 'https://rpc-qnd-sepolia.inkonchain.com';
-const CHAIN_ID = 763373;
+const RPC_URL = 'https://odyssey.storyrpc.io/';
+const CHAIN_ID = 1516;
 const provider = new ethers.JsonRpcProvider(RPC_URL, CHAIN_ID);
 
 function generateRandomAddress() {
