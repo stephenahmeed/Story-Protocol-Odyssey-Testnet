@@ -1,4 +1,4 @@
-# Ink-Auto-Tx-Bot
+# Story Protocol Odyssey Testnet Auto Tx
 This bot automates transaction processes daily
 
 ## BOT FEATURE 
@@ -10,7 +10,7 @@ https://github.com/codespaces
 
 ### 2. Clone project repo
 ```bash
-git clone https://github.com/stephenahmeed/Ink-Auto-Tx-Bot.git && cd Ink-Auto-Tx-Bot
+git clone https://github.com/stephenahmeed/Story-Protocol-Odyssey-Testnet.git && cd Story-Protocol-Odyssey-Testnet
 ```
 ### 3. Go To Bot Directory
 ```
