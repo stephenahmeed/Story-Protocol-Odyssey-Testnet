@@ -4,7 +4,7 @@
     "ethers": "^6.13.1",
     "prompt-sync": "^4.2.0"
   },
-  "name": "Ink-Sepolia",
+  "name": "Story-Protocol-Odyssey-Testnet",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
